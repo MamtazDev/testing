@@ -1,4 +1,23 @@
 
+step:1..
+npm install -g @salla.sa/cli
+
+step:2..
+login to https://salla.partners/ with mamtaz github
+
+step:3..
+clone github repo name testing from the mamtaz github
+
+step:4..
+npm install
+
+step:5..
+run comman "salla theme preview"
+
+step:6..
+choose "testing" theme store
+
+
 <div id="top"></div>
 <br />
 <div align="center"> 
